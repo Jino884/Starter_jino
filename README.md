@@ -8,7 +8,7 @@ Example data science portfolio
 * Optimized Linear, Lasso, and Random Forest Regressors using GridsearchCV to reach the best model. 
 * Built a client facing API using flask 
 
-![](https://github.com/Jino884/Starter_jino/blob/main/images/positions_by_state.png)
+![](images/positions_by_state.png)
 
 
 # [Project 2: Ball Imange Classifier](https://github.com/PlayingNumbers/ball_image_classifier)
@@ -16,4 +16,4 @@ Example data science portfolio
 
 I was able to get the model to predict the sport of the ball with 94% accuracy after minimal tuning. For most of the cases this would meet the need of an end user of the app. To get these results I used transfer learning on a CNN trained on resnet34. This created time efficiencies and solid results. 
 
-![](https://github.com/Jino884/Starter_jino/blob/main/images/196581041_3049951135237076_6324810652179296705_n.jpg)
+![](/images/196581041_3049951135237076_6324810652179296705_n.jpg)
